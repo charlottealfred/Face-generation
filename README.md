@@ -66,7 +66,7 @@ $ python gan_gui.py
                   ![CycleGAN colab](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/cyclegan_colab.png "CycleGAN colab")
 
          * These pretrained models can also be downloaded from my Google Drive
-         * Url: https://drive.google.com/drive/folders/1VLLOmDOpeq7luHusK3QzEuAv8-z1F24J?usp=share_link
+         * Url: https://drive.google.com/drive/folders/1sNOzcieihtAY7Cq7EpZ38l4mw1YCVI7m?usp=share_link
          
          * Store models in checkpoint folder and put these models in Put the model into the corresponding folder
          ![checkpoint folder](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/checkpoints.png "checkpoint folder")
