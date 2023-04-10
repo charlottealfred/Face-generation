@@ -60,7 +60,7 @@ $ python gan_gui.py
          
          * Put these models in this floder:
       * CycleGAN：
-         * download pretrained models from the Cycle project
+         * download pretrained models from the CycleGAN project
          * The models are: style_monet, style_cezanne, style_ukiyoe, style_vangogh
          * Url: https://colab.research.google.com/github/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/CycleGAN.ipynb#scrollTo=gdUz4116xhpm
                   ![CycleGAN colab](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/cyclegan_colab.png "CycleGAN colab")
