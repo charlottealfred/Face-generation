@@ -12,11 +12,12 @@ $ python gan_gui.py
 ![Table widget 1 : Generate new faces](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/Table%20widget%201%20Generate%20new%20faces.png "Table widget 1 : Generate new faces")
 
 * Function：
-    * Generate two human faces by using 'random' or 'input seed number' noise seed
+    * Generate two human faces by using `random` or `input seed number` noise seed
+    * Please note that you must press the `Enter` key after entering the seed number.
     * The available models are 'pggan_celebahq', 'stylegan_celebahq', 'stylegan_ffhq'
     * The available latent space for 'stylegan_celebahq', 'stylegan_ffhq' are 'W', 'Z'.
     * Aftering choosing the parameters, click the 'Change original faces' button to generate faces.
-    * Moing the silider to change the attributes of generated faces.
+    * Moing the slider to change the attributes of generated faces.
     
 ![Change faces](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/change_faces.png "Change faces")
 
@@ -38,7 +39,7 @@ $ python gan_gui.py
     * Clicking the zoom in button to view the style changed picture full screen
     ![Zoom in](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/zoom_in.png "Zoom in")
  
-    * Clicking the save photo button to save faces.
+    * Clicking the save photo button to save images.
     * The format of the default picture name is original file name add style name, such as XXXX_monet.png
     
 ![Save](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/save_tab2.png "Save in")    
@@ -68,7 +69,7 @@ $ python gan_gui.py
          * These pretrained models can also be downloaded from my Google Drive
          * Url: https://drive.google.com/drive/folders/1sNOzcieihtAY7Cq7EpZ38l4mw1YCVI7m?usp=share_link
          
-         * Store models in checkpoint folder and put these models in Put the model into the corresponding folder
+         * Store models in checkpoint folder and put these models into the corresponding folder
          ![checkpoint folder](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/checkpoints.png "checkpoint folder")
          
          
