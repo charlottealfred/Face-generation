@@ -36,10 +36,11 @@ $ python gan_gui.py
     * Changing the style of uploading image.
     * Choosing the style you want.
     * Clicking the zoom in button to view the style changed picture full screen
- ![Zoom in](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/zoom_in.png "Zoom in")
+    ![Zoom in](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/zoom_in.png "Zoom in")
  
     * Clicking the save photo button to save faces.
-    * The format of the default picture name is original file name add style mane, such as XXXX_monet.png
+    * The format of the default picture name is original file name add style name, such as XXXX_monet.png
+    
 ![Save](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/save_tab2.png "Save in")    
     
     
@@ -57,8 +58,7 @@ $ python gan_gui.py
 
          * These pretrained models can also be downloaded from my Google Drive
          * Url: https://drive.google.com/drive/folders/19-_NH7_GVRa_ywtlMgShu7Me4QfkvM4w?usp=share_link
-         
-         * Put these models in this floder:
+         * Put these models in this floder: https://github.com/charlottealfred/Face-generation/tree/main/models/pretrain
       * CycleGAN：
          * download pretrained models from the CycleGAN project
          * The models are: style_monet, style_cezanne, style_ukiyoe, style_vangogh
@@ -73,9 +73,8 @@ $ python gan_gui.py
          
          
  ## Reference
-   * InterfaceGAN
-
-   * CycleGAN
+   * InterfaceGAN: https://github.com/genforce/interfacegan
+   * CycleGAN: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
    * Please note that I have made some changes to the test.py
  ![test.py change](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/testpy_change.png "test.py change")
     
