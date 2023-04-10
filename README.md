@@ -69,7 +69,9 @@ $ python gan_gui.py
          * These pretrained models can also be downloaded from my Google Drive
          * Url: https://drive.google.com/drive/folders/1sNOzcieihtAY7Cq7EpZ38l4mw1YCVI7m?usp=share_link
          
-         * Store models in checkpoint folder and put these models into the corresponding folder
+         * Create new folders according to the following picture in checkpoint folder 
+         * https://github.com/charlottealfred/Face-generation/tree/main/checkpoints
+         * Put these models into the corresponding folders
          ![checkpoint folder](https://github.com/charlottealfred/Face-generation/blob/main/readme_picture/checkpoints.png "checkpoint folder")
          
          
